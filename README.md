@@ -1,4 +1,11 @@
 # FBReaderJ
-Official FBReaderJ project repository
 
-This is my style!
+Change from Official FBReaderJ project repository By Sunky.
+
+* Full support Eclipse project.
+* Support JNI compile.
+
+
+
+
+
