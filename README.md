@@ -5,7 +5,7 @@ Change from Official FBReaderJ project repository By Sunky.
 * [DONE] Full support Eclipse project.
 * [DONE] Support JNI compile.
 * [TBD] Support Android Studio. (Exinclude JNI compile)
-* [TBD] Frendly GUI
+* [TBD] Friendly GUI
 
 
 
